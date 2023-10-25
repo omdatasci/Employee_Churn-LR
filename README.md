@@ -1,7 +1,7 @@
 # Employee_Churn-LR
 Employee Churn prediction using Logistic Regression model.
 
-This model helps to find out the which employee will leave the company by analysing various factors like tenure, age, income etc.
+This model helps to find out which employee will leave the company by analysing various factors like tenure, age, income etc related to that employee.
 
 Projects steps:
 
